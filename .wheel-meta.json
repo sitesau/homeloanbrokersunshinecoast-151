@@ -1,0 +1,22 @@
+{
+  "wheel_id": 514,
+  "structure": "umbrella",
+  "slug": "homeloanbrokersunshinecoast-151",
+  "project": "home-loan-brokers-sunshine-coast-glossary-df09fdf890dea90f6eab9",
+  "parent_t1_ref": "homeloanbrokersunshinecoast-011",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokersunshinecoast.com.au",
+  "primary_kw": "home loan brokers sunshine coast glossary",
+  "intended_url": "http://home-loan-brokers-sunshine-coast-glossary-df09fdf890dea90f6eab9.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "4b3f2c129b2f4154",
+  "links": [
+    {
+      "target_url": "https://sites-e470-1.web.app/home-loan-brokers-sunshine-coast-011/",
+      "anchor": "Home Loan Brokers Sunshine Coast: A Practical Borrower Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
